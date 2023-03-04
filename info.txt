@@ -5,3 +5,9 @@ AKIAWLGGR2YXNPWOCS43
 chave secret:
 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
 
+ZAPPA (alex-t)
+ID chave:
+AKIAWLGGR2YXEM2TW6NV
+
+chave secret:
+kJydF4LkMzcTO5ms3mHSn33hPmzeDYX+cNxgEEf6
